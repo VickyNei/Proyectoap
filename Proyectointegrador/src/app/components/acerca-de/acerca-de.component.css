@@ -17,6 +17,8 @@ div{
         box-shadow: 3px 3px 3px coral;
         left: 3%;
         top: 600px;
+     
+       
     }
 }
 
@@ -28,6 +30,8 @@ div{
         box-shadow: 3px 3px 3px coral;
         left: 33%;
         top: 414px; /*aca estoy probando diferentes px en el video era de 600*/
+        
+        
     }
 }
 /*etiqueta nombre*/
