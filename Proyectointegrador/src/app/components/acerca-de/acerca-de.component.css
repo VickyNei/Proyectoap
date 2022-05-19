@@ -11,8 +11,7 @@ div{
 /*Estilo de la foto de perfil*/
 @media (min-width: 576px){
     #fotodeperfil{
-        position: absolute;
-        width: 30%;
+        width: 90%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px coral;
         left: 3%;
@@ -29,7 +28,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px coral;
         left: 33%;
-        top: 425px; /*aca estoy probando diferentes px en el video era de 600*/
+        top: 550px; /*aca estoy probando diferentes px en el video era de 600*/
         
         
     }
